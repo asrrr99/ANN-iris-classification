@@ -1,5 +1,3 @@
-# ANN-iris-classification
-An Artificial Neural Network (ANN) built from scratch to classify Iris flower species based on sepal and petal measurements.
 # ANN Iris Classification
 
 A clean and simple implementation of an **Artificial Neural Network (ANN)** to classify the classic Iris flower dataset into three distinct species (*Iris setosa*, *Iris virginica*, and *Iris versicolor*) based on sepal and petal measurements.
